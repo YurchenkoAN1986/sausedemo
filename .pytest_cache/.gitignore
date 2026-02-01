@@ -1,0 +1,22 @@
+# Created by pytest automatically.
+# Виртуальные окружения
+.venv/
+venv/
+env/
+ENV/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm
+.idea/
+*.iml
+
+# Операционные системы
+
+
+# Логи и базы данных
+*.log
+*.sqlite3
